@@ -14,4 +14,4 @@ Console.write(te.mdContent);#md内容文档
    
 ## 参考资料
 
-![哈工大的《基于行块分布函数的通用网页正文抽取》](https://code.google.com/archive/p/cx-extractor/)
+[哈工大的《基于行块分布函数的通用网页正文抽取》](https://code.google.com/archive/p/cx-extractor/)
